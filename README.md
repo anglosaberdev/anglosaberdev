@@ -4,18 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Anglo%20Saber&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20NLP%20Researcher%20%7C%20Senior%20iOS%20Developer&descAlignY=65" width="100%"/>
 
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=🤖+Building+Intelligent+AI+Applications;🧠+Exploring+LLMs+%7C+RAG+%7C+AI+Agents;🔎+Applied+NLP+Research+%7C+Generative+AI;📱+SwiftUI+%7C+iOS+Engineering+%7C+AI+Integration"/>
-
-
-<br>
-
-
-<img src="https://komarev.com/ghpvc/?username=anglosaberdev&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-
-</div>
-
-
 ---
 
 # 👨‍💻 About Me
@@ -255,24 +243,6 @@ RAG
 ```
 
 
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=anglosaberdev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anglosaberdev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-
-
-</div>
-
-
----
 
 # 📈 Contribution Activity
 
