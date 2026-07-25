@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Anglo%20Saber&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20NLP%20Researcher%20%7C%20Senior%20iOS%20Developer&descAlignY=60" width="100%"/>
+<!-- Premium Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Anglo%20Saber&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20NLP%20Researcher%20%7C%20Senior%20iOS%20Developer&descAlignY=65" width="100%"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+Building+Intelligent+AI+Applications;🧠+LLMs+%7C+RAG+%7C+AI+Agents;🔎+NLP+Research+%7C+Semantic+Search;📱+SwiftUI+%7C+iOS+%7C+AI+Integration"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=🤖+Building+Intelligent+AI+Applications;🧠+Exploring+LLMs+%7C+RAG+%7C+AI+Agents;🔎+Applied+NLP+Research+%7C+Generative+AI;📱+SwiftUI+%7C+iOS+Engineering+%7C+AI+Integration"/>
+
+
+<br>
 
 
 <img src="https://komarev.com/ghpvc/?username=anglosaberdev&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
@@ -11,46 +16,30 @@
 </div>
 
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</p>
-
-
 ---
 
 # 👨‍💻 About Me
 
-
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/3o7TKU8RvQUomFfUUU/giphy.gif">
-
-
 Hi, I'm **Anglo Saber** 👋
-
 
 🚀 **Generative AI Engineer | NLP Researcher | Senior iOS Developer**
 
-
-I specialize in building intelligent applications that combine:
+I specialize in designing and building intelligent applications that combine:
 
 - 🤖 Large Language Models (LLMs)
 - 🔎 Retrieval-Augmented Generation (RAG)
 - 🧠 AI Agents & Agentic Systems
-- 🔤 Transformer-based NLP
+- 🔤 Transformer-based NLP Applications
 - 🗄️ Vector Databases & Semantic Search
 - 📱 AI-powered Mobile Applications
 
 
-My goal is to transform AI research into scalable real-world products.
-
-
-<br clear="right"/>
+My mission is to transform advanced AI research into scalable real-world products.
 
 
 ---
 
-# 🔥 Core Expertise
+# 🎯 Core Focus Areas
 
 
 <p align="center">
@@ -71,17 +60,19 @@ My goal is to transform AI research into scalable real-world products.
 # 🛠️ Technical Stack
 
 
-## 💻 Programming & Backend
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 Languages & Backend
 
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,swift,java,javascript,typescript,fastapi,flask,docker,git,github&perline=5"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=python,swift,java,javascript,typescript,fastapi,flask,docker&perline=4"/>
 
 
-**Languages**
+### Languages
 
 - Python
 - Swift
@@ -90,7 +81,7 @@ My goal is to transform AI research into scalable real-world products.
 - TypeScript
 
 
-**Frameworks**
+### Frameworks
 
 - FastAPI
 - Flask
@@ -99,60 +90,53 @@ My goal is to transform AI research into scalable real-world products.
 - Combine
 
 
----
-
-## 🤖 Artificial Intelligence
+</td>
 
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=4"/>
-
-</p>
+<td width="50%" valign="top">
 
 
-**Generative AI**
-
-- Large Language Models
-- Prompt Engineering
-- Fine-Tuning
-- LoRA / QLoRA
-- Hugging Face Transformers
+## 🧠 AI & Machine Learning
 
 
-**Frameworks**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2"/>
+
+
+### Deep Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+
+
+### Generative AI
 
 - LangChain
 - LlamaIndex
+- Hugging Face Transformers
 - IBM watsonx.ai
 - OpenAI API
 
 
+</td>
+
+</tr>
+
+</table>
+
+
 ---
 
-## 🔎 Retrieval & Vector Search
+# 🔎 Retrieval & Vector Intelligence
 
 
 - ChromaDB
 - FAISS
-- Embeddings
+- Vector Databases
+- Embedding Models
 - Semantic Search
 - Similarity Search
-- Vector Retrieval
-- RAG Architecture
-
-
----
-
-# 🚀 Currently Building
-
-
-| Project | Technology |
-|---|---|
-| 🤖 AI Chat Applications | LLMs + Flask |
-| 🧠 RAG Knowledge Assistant | LangChain + ChromaDB |
-| 🔎 Semantic Search Engine | Embeddings + Vector Database |
-| 📱 AI Mobile Applications | SwiftUI + AI APIs |
+- RAG Architectures
 
 
 ---
@@ -199,7 +183,7 @@ My goal is to transform AI research into scalable real-world products.
 
 ---
 
-## 📱 iOS Development
+## 📱 iOS Engineering
 
 
 | Certification | Provider |
@@ -216,11 +200,10 @@ My goal is to transform AI research into scalable real-world products.
 
 ## 🤖 Generative AI Chat Application
 
+Flask-based AI chatbot application powered by Large Language Models.
 
-A Flask-based AI chatbot application powered by Large Language Models.
 
-
-**Stack**
+**Technology Stack**
 
 ```
 
@@ -228,20 +211,19 @@ Python
 Flask
 LLMs
 OpenAI API
+Hugging Face
 
 ```
 
 
 ---
 
-
 ## 🧠 Generative AI Assistant with Gradio
-
 
 Interactive AI assistant for LLM experimentation and prompt workflows.
 
 
-**Stack**
+**Technology Stack**
 
 ```
 
@@ -255,14 +237,12 @@ Prompt Engineering
 
 ---
 
-
 ## 🔎 RAG Knowledge Assistant
 
+Document intelligence system using Retrieval-Augmented Generation.
 
-Document intelligence system using retrieval augmented generation.
 
-
-**Stack**
+**Technology Stack**
 
 ```
 
@@ -283,10 +263,10 @@ RAG
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anglosaberdev&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=anglosaberdev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anglosaberdev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anglosaberdev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 
 
 </div>
@@ -313,17 +293,23 @@ RAG
 
 
 <a href="https://github.com/anglosaberdev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 
 <a href="https://linkedin.com/in/anglosaber">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 
 <a href="mailto:eng.angloessam2010@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 
@@ -340,15 +326,13 @@ RAG
 
 <div align="center">
 
-
 ⭐ **Always learning. Always building. Always improving.**
-
 
 </div>
 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
